@@ -1,0 +1,97 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 103
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 2
+	Date: 2014-05-05 ; Times: 8
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-07 ; Times: 2
+	Date: 2014-05-11 ; Times: 1
+	Date: 2014-05-12 ; Times: 2
+	Date: 2014-05-13 ; Times: 1
+	Date: 2014-05-14 ; Times: 5
+	Date: 2014-05-15 ; Times: 4
+	Date: 2014-05-16 ; Times: 7
+	Date: 2014-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 1
+	Query: "sus scrofa" ; Times: 15
+	Query: "primate" ; Times: 1
+	Query: "priodontes maximus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "crocodylus mvz" ; Times: 1
+	Query: "Oryctolagus" ; Times: 1
+	Query: "PRIODONTES MAXIMUS" ; Times: 4
+	Query: "Ellobius lutescens" ; Times: 1
+	Query: "Monotremata" ; Times: 2
+	Query: "bassaricyon" ; Times: 2
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1679 download events in this period)
+Total number of records downloaded: 103 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 87
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 1
+	Date: 2014-05-05 ; Times: 8
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "Pteropus institutioncode:MVZ" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Monotremata" ; Times: 5
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 71
+Total number of records retrieved from searches: 260
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 571
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 71
+Total number of records retrieved from searches: 260
+Number of download events that retrieved data from the resource: 101
+Total number of records downloaded: 752
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
