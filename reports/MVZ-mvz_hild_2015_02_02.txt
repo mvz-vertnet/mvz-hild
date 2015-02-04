@@ -1,0 +1,137 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 268
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: France ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-05 ; Times: 2
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-09 ; Times: 4
+	Date: 2015-01-12 ; Times: 1
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-15 ; Times: 2
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-25 ; Times: 3
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "basiliscus vittatus" ; Times: 1
+	Query: "scandentia mappable:1" ; Times: 1
+	Query: "mink" ; Times: 2
+	Query: "stateprovince:"california" genus:aquila" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "Bassaricyon alleni" ; Times: 1
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "Equus" ; Times: 1
+	Query: "NAME OF THIS ORDER mappable:1" ; Times: 2
+	Query: "basiliscus vittatus institutioncode:mvz" ; Times: 1
+	Query: "basiliscus institutioncode:mvz" ; Times: 1
+	Query: "anolis equestris" ; Times: 2
+	Query: "Boa" ; Times: 1
+	Query: ""mvz/mvz-hildebrand-collection-arctos"" ; Times: 2
+	Query: "puma concolor type:specimen country:"United States"" ; Times: 1
+	Query: "hildebrand" ; Times: 1
+	Query: "boa" ; Times: 1
+	Query: "hildebrand institutioncode:mvz" ; Times: 1
+	Query: ""Orycteropus afer" mappable:1" ; Times: 1
+	Query: "Felis silvestris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 445 download events in this period)
+Total number of records downloaded: 96 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 89
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 5
+	Date: 2015-01-04 ; Times: 5
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-12 ; Times: 2
+	Date: 2015-01-13 ; Times: 1
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "stateprovince:"california" genus:aquila" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Dasyproctidae" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "Ctenomys" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 173
+Total number of records retrieved from searches: 439
+Number of download events that retrieved data from the resource: 29
+Total number of records downloaded: 96
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 202
+Total number of records retrieved from searches: 707
+Number of download events that retrieved data from the resource: 209
+Total number of records downloaded: 1298
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
