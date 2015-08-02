@@ -1,0 +1,113 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Boa constrictor" ; Times: 1
+	Query: "mammalia orthogeomys" ; Times: 2
+	Query: "genus:Ptilocercus" ; Times: 1
+	Query: "Vulpes fulva" ; Times: 3
+	Query: "genus:orycteropus" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "squatina" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "rana mappable:1 distance(location,geopoint(38.01699254658493,-122.3356819152832))<12082" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "class:mammalia institutioncode:mvz" ; Times: 2
+	Query: "rana mappable:1 distance(location,geopoint(38.00617257513525,-122.2807502746582))<7023.995390252768" ; Times: 1
+	Query: "class:Aves institutioncode:MVZ" ; Times: 2
+	Query: "Priodontes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1084 download events in this period)
+Total number of records downloaded: 46 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 37
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 3
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sus scrofa" ; Times: 2
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "rana mappable:1 distance(location,geopoint(38.00617257513525,-122.2807502746582))<7023.995390252768" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 287
+Total number of records retrieved from searches: 1050
+Number of download events that retrieved data from the resource: 122
+Total number of records downloaded: 387
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 316
+Total number of records retrieved from searches: 1318
+Number of download events that retrieved data from the resource: 302
+Total number of records downloaded: 1589
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
