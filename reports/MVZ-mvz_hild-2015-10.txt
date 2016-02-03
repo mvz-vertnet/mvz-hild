@@ -1,0 +1,95 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 7
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "homo sapiens" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "genus:Anolis mappable:1 island:Cuba" ; Times: 2
+	Query: "enhydra california type:specimen" ; Times: 2
+	Query: "cryptobranchus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus stateprovince:&#34;colorado&#34; OR &#34;California&#34;" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "crocuta" ; Times: 1
+	Query: "institutioncode:mvz genus:sus" ; Times: 1
+	Query: "enhydra california" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 5
+	Query: "puma concolor california" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 823 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+
+
+End of report.
