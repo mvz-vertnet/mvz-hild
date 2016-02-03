@@ -1,0 +1,88 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-30 ; Times: 3
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "homo sapiens" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "Hylobates lar" ; Times: 3
+	Query: "catalognumber:1017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 889 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-25 ; Times: 12
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus" ; Times: 3
+	Query: "specificepithet:bottae genus:Thomomys" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 3
+	Query: "specificepithet:deserti genus:Dipodomys" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus" ; Times: 3
+	Query: "scaphiopus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+
+
+End of report.
