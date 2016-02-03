@@ -1,0 +1,141 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 3
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-19 ; Times: 2
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mink" ; Times: 1
+	Query: "genus:bradypus institutioncode:MVZ" ; Times: 2
+	Query: "gallus gallus" ; Times: 1
+	Query: "MyrmecOphaga" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 5
+	Query: "Sciurus variegatoides" ; Times: 2
+	Query: "draco volans" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Bitis family:Viperidae" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Enhydra institutioncode:MVZ" ; Times: 1
+	Query: "crocuta" ; Times: 2
+	Query: "myrmecophaga" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Otospermophilus beecheyi type:specimen mappable:1" ; Times: 2
+	Query: "heloderma california" ; Times: 1
+	Query: "Spea Hammondii stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1045 download events in this period)
+Total number of records downloaded: 80
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 36
+	Country: Chile ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-25 ; Times: 6
+	Date: 2015-09-29 ; Times: 10
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-16 ; Times: 11
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Necturus" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "country:&#34;United States&#34; class:Aves" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "genus:bradypus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+
+
+End of report.
