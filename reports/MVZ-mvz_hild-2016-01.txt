@@ -1,0 +1,96 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-06 ; Times: 5
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Equus" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "&#34;Procavia capensis&#34; mappable:1" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Boa constrictor" ; Times: 6
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "enhydra lutris california" ; Times: 2
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Equus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 507 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
