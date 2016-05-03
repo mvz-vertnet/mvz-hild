@@ -1,0 +1,128 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-15 ; Times: 4
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera pardus" ; Times: 2
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 2
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "ammotragus" ; Times: 2
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:CAS OR institutioncode:LACM OR institutioncode:MVZ OR institutioncode:SBNMH OR institutioncode:UCMP" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "puma concolor type:specimen (california)" ; Times: 2
+	Query: "&#34;puma concolor&#34; type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja)" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:MVZ" ; Times: 1
+	Query: "Hyaenidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1312 download events in this period)
+Total number of records downloaded: 134
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 23
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 10
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 12
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 5
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:MVZ" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "temnospondyli" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:CAS OR institutioncode:LACM OR institutioncode:MVZ OR institutioncode:SBNMH OR institutioncode:UCMP" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+
+
+End of report.
