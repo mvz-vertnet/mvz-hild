@@ -1,0 +1,133 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 595
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 6
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-12 ; Times: 4
+	Date: 2016-07-20 ; Times: 2
+	Date: 2016-07-21 ; Times: 4
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-19 ; Times: 3
+	Date: 2016-07-18 ; Times: 8
+	Date: 2016-07-08 ; Times: 2
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-28 ; Times: 4
+	Date: 2016-07-29 ; Times: 8
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:423d9318-4dd4-4d31-81cb-27778c44a3bc" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "Bitis arietans" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 1
+	Query: "ornithorhynchus mvz" ; Times: 1
+	Query: "institutioncode:MVZ collectioncode:&#34;anatomical preparations&#34;" ; Times: 2
+	Query: "procavia" ; Times: 2
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "APTOrnis" ; Times: 1
+	Query: "bitis arietans" ; Times: 1
+	Query: "sciurus variegatoides" ; Times: 1
+	Query: "type:specimen specificepithet:rosmarus genus:odobenus institutioncode:MVZ" ; Times: 2
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "Anas finschi" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 3
+	Query: "Ammotragus lervia 1" ; Times: 1
+	Query: "specificepithet:polylepis genus:Balistes" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "aptornis" ; Times: 2
+	Query: "Talpidae institutioncode:MVZ" ; Times: 1
+	Query: "genus:Ellobius institutioncode:MVZ" ; Times: 1
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 2
+	Query: "APTOrnis]" ; Times: 1
+	Query: "Sciurus deppei deppei" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1219 download events in this period)
+Total number of records downloaded: 61
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 26
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-14 ; Times: 4
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-19 ; Times: 1
+	Date: 2016-07-18 ; Times: 1
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-09 ; Times: 3
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-29 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-21 ; Times: 11
+	Date: 2016-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "pedetes capensis type:specimen" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "Otospermophilus beecheyi stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "agamidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "bitis" ; Times: 1
+	Query: "&#34;Otospermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 11
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "&#34;Spermophilus beecheyi&#34; mappable:1" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
