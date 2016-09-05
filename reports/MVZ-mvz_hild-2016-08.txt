@@ -1,0 +1,113 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 41
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-12 ; Times: 2
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-19 ; Times: 5
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 21
+	Date: 2016-08-30 ; Times: 9
+	Date: 2016-08-31 ; Times: 3
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:423d9318-4dd4-4d31-81cb-27778c44a3bc" ; Times: 1
+	Query: "Cabassous" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 11
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 3
+	Query: "Scaphiopus hammondii" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "felis silvestris" ; Times: 1
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 3
+	Query: "specificepithet:gladius genus:Xiphias" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "sus scrofa" ; Times: 2
+	Query: "scientificname:Morone saxatilis country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 2
+	Query: "papio institutioncode:MVZ" ; Times: 1
+	Query: "boa constrictor" ; Times: 2
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 3
+	Query: "specificepithet:polylepis genus:Balistes" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "Cynognathus" ; Times: 1
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 1
+	Query: "specificepithet:arietans genus:bitis institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 924 download events in this period)
+Total number of records downloaded: 80
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Austria ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen family:Sciuridae stateprovince:&#34;California&#34; institutioncode:MVZ mappable:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "vertebrate" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "Scaphiopus hammondii" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Viperidae institutioncode:MVZ" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+
+
+End of report.
