@@ -1,0 +1,83 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Portugal ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-08 ; Times: 6
+	Date: 2016-09-09 ; Times: 4
+	Date: 2016-09-14 ; Times: 2
+	Date: 2016-09-05 ; Times: 7
+	Date: 2016-09-07 ; Times: 2
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbeiana  1" ; Times: 1
+	Query: "scientificname:&#34;simocyon primigenius&#34; OR scientificname:&#34;arctodus simus&#34; OR scientificname:&#34;ara macao&#34; OR scientificname:&#34;arctotherium sp.&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;cercopithecus denti&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;cercopithecus mona&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;galago moholi&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;homo naledi&#34; OR scientificname:&#34;pan  troglodytes&#34; OR scientificname:&#34;presbytis phayrei&#34; OR scientificname:&#34;pygathrix neameus&#34; OR scientificname:&#34;propithecus sp.&#34; OR scientificname:&#34;brachycephalus sp&#34; OR scientificname:&#34;otolemur garnetti&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;desmognathus sp&#34; OR scientificname:&#34;aotus sp.&#34;" ; Times: 1
+	Query: "Scaphiopus hammondii" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;platychoerops daubrei&#34; OR scientificname:&#34;bustylus marandati&#34; OR scientificname:&#34;afrodon gheerbranti&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;miopithecus talapoin&#34; OR scientificname:&#34;galeopterus variegatus&#34; OR scientificname:&#34;leptadapis magnus&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;ptilocercus lowii&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;[not referred] [not referred]&#34; OR scientificname:&#34;titanoboa cerrejonensis&#34; OR scientificname:&#34;callithrix argentata&#34; OR scientificname:&#34;callithrix humeralifera&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix sp.&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;calippus cerasinus&#34; OR scientificname:&#34;calippus elachistus&#34; OR scientificname:&#34;anchitherium clarencei&#34; OR scientificname:&#34;parahippus leonensis&#34; OR scientificname:&#34;parahippus barbouri&#34; OR scientificname:&#34;archaeohippus blackbergi&#34; OR scientificname:&#34;sifrhippus sandrae&#34; OR scientificname:&#34;nannippus peninsulatus&#34; OR scientificname:&#34;dinohippus mexicanus&#34;" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "scientificname:&#34;aotus trivirgatus&#34; OR scientificname:&#34;alouatta caraya&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;macaca fuscata&#34; OR scientificname:&#34;macaca mulatta&#34; OR scientificname:&#34;macaca sylvanus&#34; OR scientificname:&#34;mandrillus leucophaeus&#34; OR scientificname:&#34;ateles sp.&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix pygmaea&#34; OR scientificname:&#34;saguinus midas&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;saimiri boliviensis&#34; OR scientificname:&#34;saimiri sciureus&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;pongo pygmaeus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;lepilemur mustelinus&#34; OR scientificname:&#34;euoticus elegantulus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;galagoides demidovii&#34; OR scientificname:&#34;otolemur crassicaudatus&#34; OR scientificname:&#34;arctocebus calabarensis&#34;" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "scientificname:&#34;arctotherium sp.&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;cercopithecus denti&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;cercopithecus mona&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;galago moholi&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;homo naledi&#34; OR scientificname:&#34;pan  troglodytes&#34; OR scientificname:&#34;presbytis phayrei&#34;" ; Times: 1
+	Query: "procavia capensis mappable:1" ; Times: 1
+	Query: "Coturnix japonica 1" ; Times: 2
+	Query: "Aquila chrysaetos 1" ; Times: 1
+	Query: "boa constrictor" ; Times: 1
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "&#34;Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:chrysaetos genus:Aquila institutioncode:MVZ" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "scientificname:&#34;archaeolemur sp.&#34; OR scientificname:&#34;mesopropithecus dolichobrachion&#34; OR scientificname:&#34;teilhardina belgica&#34; OR scientificname:&#34;babakotia radofilai&#34; OR scientificname:&#34;hapalemur simus&#34; OR scientificname:&#34;balaenoptera physalus&#34; OR scientificname:&#34;pontoporia blainvillei&#34; OR scientificname:&#34;globicephala  macrorhynchus&#34; OR scientificname:&#34;kogia breviceps&#34; OR scientificname:&#34;crocuta crocuta&#34; OR scientificname:&#34;dinofelis barlowi&#34; OR scientificname:&#34;steno bredanensis&#34; OR scientificname:&#34;stenella attenuata&#34; OR scientificname:&#34;dinofelis piveteaui&#34; OR scientificname:&#34;dinopithecus ingens&#34; OR scientificname:&#34;eunectes murinus&#34; OR scientificname:&#34;titanoboa cerrejonensis&#34; OR scientificname:&#34;tomistoma schlegelii&#34; OR scientificname:&#34;crocodylus johnsoni&#34; OR scientificname:&#34;crocodylus siamensis&#34; OR scientificname:&#34;gavialis gangeticus&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 811 download events in this period)
+Total number of records downloaded: 299
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Thailand ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-08 ; Times: 1
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-05 ; Times: 3
+	Date: 2016-09-06 ; Times: 5
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-02 ; Times: 3
+	Date: 2016-09-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "spea hammondii" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+
+
+End of report.
