@@ -1,0 +1,166 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 143
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 8
+	Country: United States ; Times: 43
+	Country: Colombia ; Times: 9
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 5
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 6
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-27 ; Times: 12
+	Date: 2018-02-20 ; Times: 8
+	Date: 2018-02-28 ; Times: 12
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-03 ; Times: 8
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilocercus lowii " ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "latimeriidae" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Macaca nemestrina " ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/MVZ:Hild:1099?seid=1712542&#34;" ; Times: 2
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus institutioncode:MVZ" ; Times: 2
+	Query: "canis familiaris mvz" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "catalognumber:1305 institutioncode:MVZ" ; Times: 1
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "&#34;enhydra lutris&#34; mappable:1" ; Times: 1
+	Query: "scientificname:&#34;homo sapiens&#34;" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1900" ; Times: 1
+	Query: "genus:Otospermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Tragelaphus spekii" ; Times: 1
+	Query: "&#34;nasua nasua&#34; mappable:1" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Panthera pardus" ; Times: 9
+	Query: "Homo sapiens " ; Times: 1
+	Query: "Crocodylus institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 2
+	Query: "Ursus arctos california" ; Times: 1
+	Query: "Anas finschi" ; Times: 1
+	Query: "Panthera atrox " ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "HE Evans stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "orycteropus" ; Times: 2
+	Query: "hylobates lar" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon institutioncode:MVZ" ; Times: 1
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 1
+	Query: "Ellobius lutescens " ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "scientificname:&#34;macaca nemestrina&#34;" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "scientificname:&#34;ptilocercus lowii&#34;" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 3
+	Query: "ORYCTOLAGUS CUNICULUS" ; Times: 1
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "catalognumber:120" ; Times: 2
+	Query: "prionace glauca" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1892 download events in this period)
+Total number of records downloaded: 421
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 15
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "specificepithet:cristata genus:hystrix" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "genus:Vulpes country:&#34;United States&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "choloepus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:MVZ" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
