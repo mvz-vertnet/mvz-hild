@@ -1,0 +1,169 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 103
+Number of records retrieved in searches: 157
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Italy ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: Denmark ; Times: 28
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 47
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-13 ; Times: 6
+	Date: 2018-01-12 ; Times: 9
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-16 ; Times: 16
+	Date: 2018-01-24 ; Times: 4
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-14 ; Times: 5
+	Date: 2018-01-04 ; Times: 17
+	Date: 2018-01-15 ; Times: 9
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "crocuta crocuta mappable:1" ; Times: 1
+	Query: "&#34;Ursus arctos&#34; mappable:1" ; Times: 1
+	Query: "nasua nasua" ; Times: 3
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 2
+	Query: "specificepithet:americana genus:Fulica institutioncode:MVZ" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 4
+	Query: "Equus caballus" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 3
+	Query: "Phoenicopteriformes" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "&#34;nasua nasua&#34;" ; Times: 3
+	Query: "Columba livia" ; Times: 1
+	Query: "genus:Macaca" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "&#34;Aptenodytes forsteri&#34; mappable:1" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "vntype:specimen specificepithet:nemestrina genus:Macaca" ; Times: 1
+	Query: "&#34;PANTHERA PARDUS&#34; mappable:1" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "genus:Macaca institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Tachyglossidae&#34; mappable:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Potos flavus" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "&#34;orycteropus afer&#34; mappable:1" ; Times: 1
+	Query: "genus:Macaca nemestrina" ; Times: 15
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "Fulica americana" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "&#34;ursus arctos&#34; mappable:1" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "gallus gallus" ; Times: 2
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Chondrichthyes country:&#34;mexico&#34;" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "class:Aves country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Macaca" ; Times: 1
+	Query: "specificepithet:nemestrina genus:Macaca institutioncode:MVZ" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1398 download events in this period)
+Total number of records downloaded: 128
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: Italy ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-30 ; Times: 5
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-02 ; Times: 8
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Potos flavus" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Octodon" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Chinchilla lanigera" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "order:Testudines institutioncode:MVZ" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
