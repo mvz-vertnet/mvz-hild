@@ -1,0 +1,182 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 239
+Number of records retrieved in searches: 606
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 195
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 23
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-11 ; Times: 4
+	Date: 2018-03-27 ; Times: 33
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 6
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-01 ; Times: 13
+	Date: 2018-03-02 ; Times: 23
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 23
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-24 ; Times: 2
+	Date: 2018-03-25 ; Times: 11
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 30
+	Date: 2018-03-21 ; Times: 8
+	Date: 2018-03-26 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flavus genus:Potos" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 10
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 5
+	Query: "Priodontes maximus" ; Times: 2
+	Query: "genus:Myotis specificepithet:yumanensis" ; Times: 2
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 4
+	Query: "latimeria" ; Times: 1
+	Query: "genus:Rousettus specificepithet:amplexicaudatus" ; Times: 5
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Gekko specificepithet:gecko" ; Times: 5
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Felis silvestris mappable:1" ; Times: 1
+	Query: "macaca" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 5
+	Query: "genus:Potos specificepithet:flavus" ; Times: 6
+	Query: "Procaviidae" ; Times: 1
+	Query: "specificepithet:silvestris genus:felis institutioncode:MVZ" ; Times: 1
+	Query: "Columba livia " ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "genus:Nycticebus specificepithet:coucang" ; Times: 9
+	Query: "genus:felis institutioncode:MVZ" ; Times: 3
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 5
+	Query: "genus:Phoca" ; Times: 1
+	Query: "genus:Ptilocercus specificepithet:lowii" ; Times: 6
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 2
+	Query: "genus:Meleagris specificepithet:gallopavo" ; Times: 5
+	Query: "genus:Macaca specificepithet:nemestrina" ; Times: 6
+	Query: "genus:Panthera" ; Times: 2
+	Query: "specificepithet:variegatoides genus:Sciurus" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "vntype:specimen family:Phocidae institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 5
+	Query: "genus:Aquila specificepithet:chrysaetos" ; Times: 5
+	Query: "genus:Enhydra specificepithet:lutris" ; Times: 5
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:California institutioncode:MVZ" ; Times: 3
+	Query: "chinchilla" ; Times: 3
+	Query: "specificepithet:grandis genus:Orthogeomys" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 5
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 2
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 7
+	Query: "genus:Tupaia specificepithet:glis" ; Times: 2
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 7
+	Query: "priodontes" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 2
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon" ; Times: 1
+	Query: "Hylobatidae" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 3
+	Query: "Cercopithecidae" ; Times: 2
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "locality:danzante country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 4
+	Query: "genus:Nestor specificepithet:notabilis" ; Times: 5
+	Query: "genus:Puma specificepithet:concolor" ; Times: 2
+	Query: "genus:Ophiodon specificepithet:elongatus" ; Times: 5
+	Query: "procaviidae" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 5
+	Query: "primate" ; Times: 2
+	Query: "vntype:specimen family:Odobenidae institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "genus:Balistes specificepithet:polylepis" ; Times: 5
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 8
+	Query: "sphenodon" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 1
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 5
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "phoca vitulina" ; Times: 2
+	Query: "specificepithet:alleni genus:Bassaricyon" ; Times: 2
+	Query: "Hominidae" ; Times: 2
+	Query: "genus:Macaca country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1284 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-20 ; Times: 5
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-24 ; Times: 4
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "family:Felidae" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 5
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen family:Phocidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Testudines institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "coronata institutioncode:MVZ" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
