@@ -1,0 +1,146 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 129
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 3
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 4
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 8
+	Date: 2018-04-30 ; Times: 6
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:lutris genus:Enhydra" ; Times: 3
+	Query: "genus:Panthera " ; Times: 1
+	Query: "genus:Orthogeomys specificepithet:grandis mappable:1" ; Times: 1
+	Query: "genus:Homo institutioncode:MVZ" ; Times: 3
+	Query: "genus:squatina" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "genus:Pan institutioncode:MVZ" ; Times: 2
+	Query: "genus:Sciurus specificepithet:deppei mappable:1" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Orthogeomys grandis mappable:1" ; Times: 1
+	Query: "genus:Enhydra specificepithet:lutris mappable:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "genus:Ursus specificepithet:arctos mappable:1" ; Times: 2
+	Query: "specificepithet:hemionus genus:Odocoileus year &lt;= 1932 institutioncode:MVZ" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Beck locality:Guadalupe Island" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "geochelone" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus mappable:1" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius mappable:1" ; Times: 2
+	Query: "Sciurus variegatoides mappable:1" ; Times: 1
+	Query: "specificepithet:americana genus:Fulica mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:herodias genus:Ardea mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 4
+	Query: "genus:Bos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:familiaris genus:canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua mappable:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Aechmophorus mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 6
+	Query: "bubalus bubalis" ; Times: 2
+	Query: "oryctolagus" ; Times: 1
+	Query: "specificepithet:aries genus:ovis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sciurus specificepithet:variegatoides mappable:1" ; Times: 2
+	Query: "genus:Otospermophilus specificepithet:beecheyi mappable:1" ; Times: 1
+	Query: "specificepithet:coronata genus:Dendroica mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "genus:Enhydra" ; Times: 1
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1359 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 20
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "spea hammondii" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Enhydra lutris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "New Guinea" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:aries genus:ovis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Bos stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+
+
+End of report.
