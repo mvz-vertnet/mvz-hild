@@ -1,0 +1,110 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 89
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 39
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-16 ; Times: 5
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-27 ; Times: 4
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 10
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phocidae institutioncode:MVZ" ; Times: 2
+	Query: "Cabassous" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "catalognumber:1593 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1" ; Times: 6
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:MVZ" ; Times: 3
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "vntype:specimen genus:Mirounga institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "chinchilla" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "vntype:specimen family:Otariidae institutioncode:MVZ" ; Times: 3
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:americana genus:Fulica mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:herodias genus:Ardea mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "specificepithet:occidentalis genus:Aechmophorus mappable:1 stateprovince:California institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 1
+	Query: "vntype:specimen order:Carnivora institutioncode:MVZ" ; Times: 1
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "recordedby:Sean Barry" ; Times: 5
+	Query: "potos flavus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1178 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Boa constrictor" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+
+
+End of report.
