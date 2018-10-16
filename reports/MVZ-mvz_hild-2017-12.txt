@@ -1,0 +1,71 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-06 ; Times: 6
+	Date: 2017-12-12 ; Times: 4
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "sus scrofa" ; Times: 7
+	Query: "country:&#34;Japan&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 3
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "myliobatis californica" ; Times: 3
+	Query: "Homo" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus country:&#34;United States&#34;" ; Times: 1
+	Query: "Gallus gallus vntype:specimen" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 674 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Anura institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+
+
+End of report.
