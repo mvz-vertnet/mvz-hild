@@ -1,0 +1,92 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 27
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "specificepithet:lutescens genus:Ellobius" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1850" ; Times: 2
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 2
+	Query: "genus: rhamphorhynchus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 2
+	Query: "recordedby:Sean Barry" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "aptornis" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 846 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+
+
+End of report.
