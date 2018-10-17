@@ -1,0 +1,114 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 106
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 4
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-03 ; Times: 4
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 2
+	Date: 2018-08-24 ; Times: 10
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-02 ; Times: 5
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mvz oreotragus" ; Times: 2
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "sus scrofa" ; Times: 11
+	Query: "Varanus salvator" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "morejohn" ; Times: 3
+	Query: "Orthogeomys" ; Times: 1
+	Query: "recordedby:Sean Barry" ; Times: 5
+	Query: "canis familiaris mvz" ; Times: 4
+	Query: "potos flavus" ; Times: 1
+	Query: "Sphenodon" ; Times: 3
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "catalognumber:112 institutioncode:MVZ" ; Times: 2
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "Varanus salvator vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1416 download events in this period)
+Total number of records downloaded: 41
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "order:Caudata" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "genus:Anolis year&gt;1900 year&lt;2018" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Ecuador" ; Times: 1
+
+
+End of report.
