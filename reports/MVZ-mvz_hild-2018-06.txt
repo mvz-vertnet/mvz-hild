@@ -1,0 +1,116 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 86
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 37
+	Country: Mexico ; Times: 1
+	Country: Faroe Islands ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 6
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-21 ; Times: 18
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 5
+	Date: 2018-06-22 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "genus:ptilocercus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "Kuala Lumpur" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 2
+	Query: "genus:Amphiuma institutioncode:MVZ" ; Times: 1
+	Query: "family:Cryptobranchidae institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1919 institutioncode:MVZ" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "San Diego Zoo" ; Times: 2
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Hydrochaeris hydrochaeris" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "catalognumber:1000 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Ptilocercus" ; Times: 1
+	Query: "recordedby:Sean Barry" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 37
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1169 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 13
+	Country: Spain ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-15 ; Times: 6
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-19 ; Times: 7
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "genus:Necturus institutioncode:MVZ" ; Times: 1
+	Query: "family:Cryptobranchidae institutioncode:MVZ" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "genus:Amphiuma institutioncode:MVZ" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 7
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:MVZ" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+
+
+End of report.
