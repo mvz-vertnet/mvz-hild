@@ -1,0 +1,105 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 236
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 4
+	Country: El Salvador ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-01 ; Times: 11
+	Date: 2018-07-02 ; Times: 4
+	Date: 2018-07-24 ; Times: 13
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:423d9318-4dd4-4d31-81cb-27778c44a3bc" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:ursus institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:nasua institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:pardalis genus:leopardus institutioncode:MVZ" ; Times: 1
+	Query: "atractaspis sp." ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 9
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 207845" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 1
+	Query: "vntype:specimen genus:madoqua institutioncode:MVZ" ; Times: 1
+	Query: "Phoenicopteridae" ; Times: 1
+	Query: "atractaspis ghana" ; Times: 1
+	Query: "Columba livia mappable:1" ; Times: 3
+	Query: "genus:madoqua institutioncode:MVZ" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 4
+	Query: "genus:dasyprocta institutioncode:MVZ" ; Times: 1
+	Query: "Sean Barry" ; Times: 3
+	Query: "priodontes" ; Times: 2
+	Query: "genus:hystrix institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus institutioncode:MVZ" ; Times: 1
+	Query: "Sarcoramphus papa mappable:1" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "chondrichthyes" ; Times: 1
+	Query: "vntype:specimen genus:leopardus institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen genus:felis institutioncode:MVZ" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spea hammondii" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Anoura" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.
