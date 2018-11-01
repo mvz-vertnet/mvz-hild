@@ -1,0 +1,127 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 93
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: United States ; Times: 49
+	Country: Austria ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 10
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 8
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 9
+	Date: 2018-10-09 ; Times: 3
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-15 ; Times: 5
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-31 ; Times: 7
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Saurischia institutioncode:MVZ" ; Times: 4
+	Query: "vntype:specimen specificepithet:aries genus:Ovis" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 1
+	Query: "family:Tachyglossidae" ; Times: 1
+	Query: "vntype:specimen genus:crocuta institutioncode:MVZ" ; Times: 1
+	Query: "Bitis arietans" ; Times: 9
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "vntype:specimen genus:crocuta" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "specificepithet:degus genus:Octodon" ; Times: 1
+	Query: "specificepithet:cristata genus:Hystrix" ; Times: 4
+	Query: "chinchilla mammalia" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 3
+	Query: "bitis arietans" ; Times: 2
+	Query: "recordedby:Sean Barry" ; Times: 2
+	Query: "Hippocampus sp. 1" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "specificepithet:capensis genus:Pedetes" ; Times: 1
+	Query: "family:Cervidae institutioncode:MVZ" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "specificepithet:grandis genus:Orthogeomys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:lutescens genus:Ellobius" ; Times: 7
+	Query: "family:ursidae institutioncode:MVZ" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:variegatoides genus:Sciurus" ; Times: 1
+	Query: "specificepithet:leporina genus:Dasyprocta" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "class:Aves institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chinchilla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1300 download events in this period)
+Total number of records downloaded: 124
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "family:Iguanidae continent:North America institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "family:ursidae institutioncode:MVZ" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+
+
+End of report.
