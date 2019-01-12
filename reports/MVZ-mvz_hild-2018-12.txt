@@ -1,0 +1,144 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 112
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 11
+	Country: United States ; Times: 28
+	Country: China ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-08 ; Times: 4
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-06 ; Times: 5
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-05 ; Times: 13
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-04 ; Times: 8
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates " ; Times: 2
+	Query: "Strigops" ; Times: 1
+	Query: "Squatina californica mappable:1" ; Times: 1
+	Query: "specificepithet:semifasciata genus:triakis mappable:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Fistularia petimba mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:petimba genus:fistularia mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "bitis arietans" ; Times: 2
+	Query: "specificepithet:californica genus:squatina mappable:1" ; Times: 1
+	Query: "felis silvestris" ; Times: 5
+	Query: "phoca vitulina" ; Times: 6
+	Query: "Morone saxatilis mappable:1" ; Times: 1
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "genus:Cabassous" ; Times: 1
+	Query: "Ophiodon elongatus mappable:1" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis mappable:1" ; Times: 1
+	Query: "Triakis semifasciata mappable:1" ; Times: 1
+	Query: "Raja binoculata mappable:1" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:concolor genus:puma year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "potos flavus" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Oncorhynchus tshawytscha mappable:1" ; Times: 1
+	Query: "Myliobatis californica mappable:1" ; Times: 1
+	Query: "squatina californica" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 809 download events in this period)
+Total number of records downloaded: 101
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 5
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Megophryidae" ; Times: 2
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "potos flavus" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
