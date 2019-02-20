@@ -1,0 +1,103 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: El Salvador ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "genus:Urocyon institutioncode:MVZ" ; Times: 2
+	Query: "(Oryctolagus cuniculus)" ; Times: 1
+	Query: "MVZ Atractaspis" ; Times: 2
+	Query: "(primate)" ; Times: 1
+	Query: "myliobatis vntype:specimen" ; Times: 5
+	Query: "vntype:specimen genus:macaca" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 3
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "&#34;Equus caballus&#34;" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "cavia porcellus" ; Times: 1
+	Query: "class:reptilia county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 962 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:MVZ" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:reptilia county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+
+
+End of report.
