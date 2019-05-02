@@ -1,0 +1,115 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 21
+	Country: Guatemala ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 4
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 5
+	Date: 2019-04-24 ; Times: 6
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+	Date: 2019-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Otospermophilus beecheyi (California Ground Squirrel)" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 3
+	Query: "genus:Spilogale institutioncode:MVZ" ; Times: 1
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "specificepithet:tatouay genus:Cabassous" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "tragelaphus spekii" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+	Query: "Potos flavus" ; Times: 2
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "recordedby:Sean J. Barry" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "american mink" ; Times: 2
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "california ground squirrel" ; Times: 5
+	Query: "recordedby:Sean Barry" ; Times: 1
+	Query: "genus:Mephitis institutioncode:MVZ" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "potos flavus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1263 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 7
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "sphenisciformes" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "california ground squirrel" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+
+
+End of report.
