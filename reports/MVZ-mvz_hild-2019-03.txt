@@ -1,0 +1,90 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "cabassous" ; Times: 2
+	Query: "sus scrofa" ; Times: 4
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "family:Cryptobranchidae institutioncode:MVZ" ; Times: 1
+	Query: "Isla Guadalupe AND 1866" ; Times: 1
+	Query: "strigops" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 2
+	Query: "Crocuta crocuta" ; Times: 2
+	Query: "Aptenodytes" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1281 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "family:Ambystomatidae institutioncode:MVZ" ; Times: 1
+	Query: "family:Cryptobranchidae institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+
+
+End of report.
