@@ -1,0 +1,90 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 32
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 2
+	Country: United States ; Times: 5
+	Country: New Zealand ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 9
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "potos flavus" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "genus:enhydra family:Mustelidae order:Carnivora institutioncode:MVZ" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "Salvator" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Prionace glauca" ; Times: 3
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 940 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-06 ; Times: 4
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "equus" ; Times: 1
+
+
+End of report.
