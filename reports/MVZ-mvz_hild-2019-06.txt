@@ -1,0 +1,137 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 186
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 82
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-30 ; Times: 6
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-27 ; Times: 7
+	Date: 2019-06-11 ; Times: 38
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-10 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phoca specificepithet:vitulina" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 3
+	Query: "genus:Octodon specificepithet:degus" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "genus:Tupaia specificepithet:glis" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 1
+	Query: "genus:Rousettus specificepithet:amplexicaudatus" ; Times: 1
+	Query: "order:chiroptera recordedby:Constantine" ; Times: 1
+	Query: "genus:Gekko specificepithet:gecko" ; Times: 1
+	Query: "genus:Myotis specificepithet:yumanensis" ; Times: 1
+	Query: "genus:Zalophus specificepithet:californianus" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus" ; Times: 2
+	Query: "phoenicopteridae" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla" ; Times: 1
+	Query: "genus:Rattus specificepithet:norvegicus" ; Times: 1
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 2
+	Query: "genus:Taphozous specificepithet:melanopogon" ; Times: 1
+	Query: "genus:Ptilocercus specificepithet:lowii" ; Times: 2
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Macaca specificepithet:nemestrina" ; Times: 2
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "genus:Oncorhynchus specificepithet:tshawytscha" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "genus:Enhydra specificepithet:lutris" ; Times: 2
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+	Query: "genus:Fistularia specificepithet:petimba" ; Times: 1
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "genus:Pedetes specificepithet:capensis" ; Times: 1
+	Query: "genus:Bitis specificepithet:arietans" ; Times: 1
+	Query: "genus:Mirounga specificepithet:angustirostris" ; Times: 1
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:MVZ" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "genus:Bos specificepithet:taurus" ; Times: 1
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 2
+	Query: "genus:Macropus specificepithet:giganteus" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 2
+	Query: "genus:Balistes specificepithet:polylepis" ; Times: 1
+	Query: "genus:Titanis specificepithet:walleri" ; Times: 2
+	Query: "genus:Aptenodytes specificepithet:forsteri" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:colliei" ; Times: 1
+	Query: "hylobates lar" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Rhea specificepithet:americana" ; Times: 1
+	Query: "genus:Tachyglossus specificepithet:aculeatus" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Potos Flavus" ; Times: 1
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 1
+	Query: "genus:Ornithorhynchus specificepithet:anatinus" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "genus:Ophiodon specificepithet:elongatus" ; Times: 1
+	Query: "genus:Cygnus specificepithet:columbianus" ; Times: 1
+	Query: "genus:Nycticebus specificepithet:coucang" ; Times: 2
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "genus:Meleagris" ; Times: 1
+	Query: "genus:Loxodonta specificepithet:africana" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "genus:Nestor specificepithet:notabilis" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Orycteropus specificepithet:afer" ; Times: 1
+	Query: "genus:Chelonia specificepithet:mydas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1182 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 4
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anolis" ; Times: 1
+	Query: "order:caudata" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 2
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:Xenopus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Puma concolor" ; Times: 3
+	Query: "Turdus migratorius" ; Times: 1
+
+
+End of report.
