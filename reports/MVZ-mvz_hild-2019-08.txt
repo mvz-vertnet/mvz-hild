@@ -1,0 +1,131 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 89
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 28
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Peru ; Times: 5
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-14 ; Times: 5
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 13
+	Date: 2019-08-06 ; Times: 10
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "bassaricyon" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "genus:ammotragus institutioncode:MVZ" ; Times: 1
+	Query: "genus:bubalus institutioncode:MVZ" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "genus:tragulus institutioncode:MVZ" ; Times: 1
+	Query: "Gallus gallus domesticus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "genus:oreotragus institutioncode:MVZ" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "family:tragulidae institutioncode:MVZ" ; Times: 1
+	Query: "genus:madoqua institutioncode:MVZ" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "ellobius" ; Times: 1
+	Query: "sciurus variegatoides" ; Times: 2
+	Query: "family:camelidae institutioncode:MVZ" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "bassaricyon alleni" ; Times: 2
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "genus:sus institutioncode:MVZ" ; Times: 1
+	Query: "skull vntype:specimen institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alor" ; Times: 1
+	Query: "specificepithet:notabilis genus:Nestor" ; Times: 2
+	Query: "Potos flavus" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Panthera" ; Times: 2
+	Query: "genus:ovis institutioncode:MVZ" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "hyaenidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1034 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 4
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "bassaricyon alleni" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "Varanidae" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "bassaricyon" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+
+
+End of report.
