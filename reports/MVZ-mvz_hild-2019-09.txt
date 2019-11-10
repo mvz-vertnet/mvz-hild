@@ -1,0 +1,87 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 290
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 38
+	Country: United Kingdom ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-22 ; Times: 13
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-06 ; Times: 14
+	Date: 2019-09-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 3
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 14
+	Query: "strigops habroptilus" ; Times: 3
+	Query: "vntype:specimen stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 2
+	Query: "Apteryx" ; Times: 1
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "vntype:specimen class:Mammalia year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 2
+	Query: "&#34;Mammalia&#34; stateprovince:&#34;California&#34; year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Spermophilus citellus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Aves&#34; stateprovince:&#34;California&#34; year &lt;= 1950 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Aptenodytes" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1073 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-22 ; Times: 4
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Mammalia&#34; stateprovince:&#34;California&#34; year &lt;= 1950 institutioncode:MVZ" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+
+
+End of report.
