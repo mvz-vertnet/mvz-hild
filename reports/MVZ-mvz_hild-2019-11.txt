@@ -1,0 +1,111 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 78
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Denmark ; Times: 33
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-09 ; Times: 4
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-03 ; Times: 18
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 2
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "procavia" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "priodontes maximus" ; Times: 4
+	Query: "family:macropodidae institutioncode:MVZ" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 2
+	Query: "Leopardus pardalis 2019" ; Times: 4
+	Query: "Leopardus pardalis 2006" ; Times: 4
+	Query: "Anolis equestris" ; Times: 1
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 2
+	Query: "genus:Mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Panthera pardus" ; Times: 5
+	Query: "Leopardus pardalis 1999" ; Times: 4
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "specificepithet:capensis genus:procavia institutioncode:MVZ" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "MVZ 228813" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1367 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 19
+	Country: Belgium ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 10
+	Date: 2019-11-07 ; Times: 3
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:cricetidae" ; Times: 1
+	Query: "family:macropodidae institutioncode:MVZ" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "Africa" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Anolis institutioncode:MVZ" ; Times: 2
+	Query: "Gekkonidae" ; Times: 1
+	Query: "priodontes maximus" ; Times: 1
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 2
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
