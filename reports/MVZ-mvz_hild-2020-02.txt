@@ -1,0 +1,122 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 115
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 40
+	Country: Spain ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 13
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-07 ; Times: 7
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Suidae order:Artiodactyla institutioncode:MVZ" ; Times: 1
+	Query: "phoca" ; Times: 3
+	Query: "panthera" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "mvz artiodactyla" ; Times: 5
+	Query: "&#34;oryctolagus cuniculus&#34;" ; Times: 1
+	Query: "heloderma suspectum institutioncode:MVZ" ; Times: 1
+	Query: "genus:Cynognathus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "genus:Varanus institutioncode:MVZ" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "nestor notabilis" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "&#34;Tachyglossus aculeatus&#34;" ; Times: 1
+	Query: "boa stateprovince:&#34;california&#34; institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "family:Testudinidae country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "mvz bovidae" ; Times: 3
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "vntype:specimen genus:Potos" ; Times: 1
+	Query: "&#34;Panthera pardus&#34;" ; Times: 2
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;galapagos&#34; country:&#34;ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Artiodactyla institutioncode:MVZ" ; Times: 1
+	Query: "homo sapiens" ; Times: 6
+	Query: "primate" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "spilogale" ; Times: 3
+	Query: "order:Artiodactyla AND (skull) institutioncode:MVZ" ; Times: 1
+	Query: "genus:Chelonia country:&#34;United states&#34;" ; Times: 1
+	Query: "pteropus giganteus" ; Times: 1
+	Query: "geochelone" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1023 download events in this period)
+Total number of records downloaded: 67
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 9
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "genus:Geochelone (Galapagos OR Ecuador)" ; Times: 1
+
+
+End of report.
