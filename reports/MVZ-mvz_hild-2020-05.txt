@@ -1,0 +1,105 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 55
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata genus:Dendroica institutioncode:MVZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:guttatus genus:Catharus institutioncode:MVZ" ; Times: 2
+	Query: "Sphenodon" ; Times: 5
+	Query: "Nasua nasua" ; Times: 1
+	Query: "vntype:specimen specificepithet:cedrorum genus:Bombycilla institutioncode:MVZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:migratorius genus:Turdus institutioncode:MVZ" ; Times: 2
+	Query: "squatina squatina" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostra genus:Loxia institutioncode:MVZ" ; Times: 2
+	Query: "class:Aves institutioncode:MVZ" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1106 download events in this period)
+Total number of records downloaded: 210
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratorius genus:Turdus institutioncode:MVZ" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Catharus institutioncode:MVZ" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "vntype:specimen specificepithet:cedrorum genus:Bombycilla institutioncode:MVZ" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata genus:Dendroica institutioncode:MVZ" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "class:(aves OR Aves) institutioncode:MVZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostra genus:Loxia institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves institutioncode:MVZ" ; Times: 2
+
+
+End of report.
