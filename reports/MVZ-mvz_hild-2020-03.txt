@@ -1,0 +1,109 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 118
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-27 ; Times: 4
+	Date: 2020-03-31 ; Times: 3
+	Date: 2020-03-23 ; Times: 4
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-11 ; Times: 5
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-02 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flavus genus:Potos" ; Times: 2
+	Query: "panthera" ; Times: 2
+	Query: "genus:PANTHERA" ; Times: 1
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Taphozous melanopogon" ; Times: 1
+	Query: "specificepithet:lar genus:hylobates" ; Times: 2
+	Query: "(scandentia)" ; Times: 1
+	Query: "canis familiaris" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Aechmophorus vntype:specimen institutioncode:MVZ" ; Times: 1
+	Query: "PANTHERA" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "genus:Oreotragus specificepithet:oreotragus" ; Times: 2
+	Query: "canis familiaris vntype:specimen genus:canis institutioncode:MVZ" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "singapore vertebrate" ; Times: 2
+	Query: "83646" ; Times: 2
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 853 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 11
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-18 ; Times: 5
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-02 ; Times: 2
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "genus:ursus" ; Times: 2
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Emballonuridae)" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH PTEROPODIDAE" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Vespertilionidae)" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family: emballonuridae)" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Galagonidae" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+
+
+End of report.
