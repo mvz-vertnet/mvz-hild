@@ -1,0 +1,141 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 137
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 37
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 5
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-27 ; Times: 8
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-30 ; Times: 3
+	Date: 2020-01-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bottae genus:thomomys institutioncode:MVZ" ; Times: 1
+	Query: "&#34;Enhydra lutris&#34;" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "genus:spilogale class:mammalia institutioncode:MVZ" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "&#34;Ursus arctos&#34;" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 3
+	Query: "specificepithet:marinus genus:bufo institutioncode:MVZ" ; Times: 2
+	Query: "Procavia capensis mappable:1" ; Times: 2
+	Query: "&#34;Potos flavus&#34;" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "genus:Taricha county:&#34;Yolo&#34;" ; Times: 1
+	Query: "recordedby:Sean Barry" ; Times: 3
+	Query: "nestor notabilis" ; Times: 6
+	Query: "phoca vitulina" ; Times: 3
+	Query: "recordedby:sean j. barry" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "hylobates" ; Times: 1
+	Query: "apteryx" ; Times: 1
+	Query: "specificepithet:equestris genus:anolis" ; Times: 1
+	Query: "Potos flavus" ; Times: 2
+	Query: "chinchilla chinchilla" ; Times: 2
+	Query: "genus:priodontes" ; Times: 2
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "genus:thomomys institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:marinus genus:Bufo institutioncode:MVZ" ; Times: 1
+	Query: "Varanus salvator" ; Times: 3
+	Query: "specificepithet:hammondii genus:Spea institutioncode:MVZ" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 3
+	Query: "Phoca vitulina vntype:specimen" ; Times: 1
+	Query: "family:geomyidae institutioncode:MVZ" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1584 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: China ; Times: 3
+	Country: Czechia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "genus:Spea" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "genus:thomomys institutioncode:MVZ" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+
+
+End of report.
