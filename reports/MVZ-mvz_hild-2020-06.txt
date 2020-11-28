@@ -1,0 +1,63 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 285
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: United Kingdom ; Times: 38
+	Country: Bolivia ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-06 ; Times: 6
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-17 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Homo sapiens" ; Times: 18
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "Nasua nasua" ; Times: 3
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Florida" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "salmoninae" ; Times: 1
+
+
+End of report.
