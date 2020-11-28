@@ -1,0 +1,155 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 313
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 26
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 35
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-21 ; Times: 6
+	Date: 2020-10-13 ; Times: 31
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-17 ; Times: 2
+	Date: 2020-10-20 ; Times: 4
+	Date: 2020-10-30 ; Times: 26
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-15 ; Times: 6
+	Date: 2020-10-06 ; Times: 4
+	Date: 2020-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Boa constrictor" ; Times: 1
+	Query: "mappable:1 scientificname:Prionace glauca" ; Times: 3
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 2
+	Query: "institutioncode:MVZ Ursus" ; Times: 1
+	Query: "panthera" ; Times: 3
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:transmontanus genus:Acipenser stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "scientificname:PRIODONTES MAXIMUS" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 25
+	Query: "Sus scrofa" ; Times: 4
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "genus:panthera country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sula sula" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "ellobius" ; Times: 2
+	Query: "Ammotragus lervia" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 3
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "Bos taurus" ; Times: 4
+	Query: "Homo sapiens" ; Times: 6
+	Query: "specificepithet:angustirostris genus:mirounga" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Ovis aries" ; Times: 3
+	Query: "specificepithet:spekii genus:tragelaphus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "scientificname:Priodontes maximus" ; Times: 2
+	Query: "genus:Boa stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "citellus beecheyi" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:MVZ" ; Times: 1
+	Query: "ursus arctos alaska" ; Times: 1
+	Query: "genus:ornithorhynchus institutioncode:MVZ" ; Times: 1
+	Query: "scientificname:Homo sapiens" ; Times: 1
+	Query: "vntype:specimen specificepithet:habroptilus genus:strigops" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "specificepithet: oreotragus genus: Oreotragus" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1521 download events in this period)
+Total number of records downloaded: 295
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-28 ; Times: 6
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-07 ; Times: 2
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "citellus beecheyi" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "Bitis arietans" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:concolor family:felidae stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:afer genus:Orycteropus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:spekii genus:tragelaphus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;california&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:MVZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:habroptilus genus:strigops" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "specificepithet:oreotragus genus:oreotragus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;california&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+
+
+End of report.
