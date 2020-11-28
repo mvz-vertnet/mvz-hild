@@ -1,0 +1,102 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 9
+	Country: Netherlands ; Times: 7
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 4
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-30 ; Times: 3
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "133690" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "mappable:1 scientificname:Ammotragus lervia" ; Times: 1
+	Query: "family:Mephitidae institutioncode:MVZ" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "genus:Erythrocebus" ; Times: 3
+	Query: "class:aves coordinateuncertaintyinmeters&lt;=1000 stateprovince:california year:1976" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "phoca vitulina" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "San Diego Zoo" ; Times: 2
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "ptilocercus" ; Times: 1
+	Query: "genus:Erythrocebus year &gt;= 1861" ; Times: 1
+	Query: "mappable:1 scientificname:Phoenicopterus ruber" ; Times: 1
+	Query: "genus:Erythrocebus year &gt;= 1861 institutioncode:MVZ" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Erythrocebus" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 756 download events in this period)
+Total number of records downloaded: 227
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "order:Squamata" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "genus:Taricha institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "order:Testudines institutioncode:MVZ" ; Times: 1
+	Query: "class:Mammalia" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
