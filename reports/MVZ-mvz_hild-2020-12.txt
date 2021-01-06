@@ -1,0 +1,144 @@
+Report for Institution Code MVZ, Resource mvz_hild
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 125
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 7
+	Country: India ; Times: 1
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 18
+	Country: Mozambique ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 8
+	Date: 2020-12-30 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 7
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 17
+	Date: 2020-12-14 ; Times: 7
+	Date: 2020-12-02 ; Times: 11
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 2
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "mappable:1 scientificname:Chelonia mydas" ; Times: 2
+	Query: "genus:Chelonia stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Ovis aries" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mappable:1 scientificname:Panthera pardus" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "scientificname:Caranx hippos" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "Equus caballus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 2
+	Query: "Sus scrofa" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "genus:thomomys county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "genus:Chelonia stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "bitis arietans" ; Times: 5
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "mappable:1 scientificname:Sarcoramphus papa" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus" ; Times: 6
+	Query: "Loxia curvirostra" ; Times: 2
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "scientificname:Fistularia petimba" ; Times: 1
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 1
+	Query: "Panthera pardus pardus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "spilogale" ; Times: 1
+	Query: "scientificname:Prionace glauca" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "specificepithet:bottae genus:thomomys county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruber genus:Phoenicopterus" ; Times: 1
+	Query: "specificepithet:ursinus genus:Callorhinus" ; Times: 1
+	Query: "genus:sus" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 705 download events in this period)
+Total number of records downloaded: 66
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "family:psittacidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+
+
+End of report.
